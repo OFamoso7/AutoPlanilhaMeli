@@ -126,22 +126,9 @@ for linha in tabela.index:
     #clicar no formato 
     pg.click(x=467, y=531)
 
-    #tempo pro pc carregar os documentos
 
 
-#pesquisar o SVC
-#pg.write('SMG1')
-#Selecionar o SVC correto que aparecerá na busca
-#pg.click(x=527, y=540)
-#Clicar em aplicar
-#pg.click(x=663, y=705)
 
 
-#Pontos para falar na reunião
-# 1- SOBRE OS PIXELS
-# 2- SOBRE O TEMPO DE RODAR
-# 3- SOBRE COMO FUNCIONA(RAPIDAMENTE)
-# 4- SOBRE AS PLANILHAS EM BRANCO QUE PODEM SER ENVIADAS
-# 5- pedir Listas dos grupos
 
 
