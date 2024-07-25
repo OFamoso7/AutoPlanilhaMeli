@@ -12,10 +12,10 @@ pg.PAUSE = 0.3
 # PASSO 2: baixar planilha do sistema
 time.sleep(6)
 pg.click(x=1269, y=329)
-#DEIXA UMA PLANILHA ABERTA EM BRANCO
+#DEIXAR UMA PLANILHA ABERTA EM BRANCO
 # Click na aba da planilha 
 pg.click(x=24, y=15)
-#Click no "archivo", sim são dois de propósito por conta da página de download
+#Click no "archivo", são DOIS por conta da página de download
 time.sleep(2)
 #pg.click(x=77, y=153)
 time.sleep(2)
